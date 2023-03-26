@@ -1,11 +1,26 @@
 # Create a Database (recruitment agency, food delivery)
 ![YM-logo](recruitment.jpg)
-Welcome to my project, where I've created an Entity-Relationship Diagram (ERD) for a recruitment agency using the Lucidchart tool. The ERD includes an Infological model with entities, relationships, specified columns, primary keys, foreign keys, and data types.
 
-To begin, I wrote a business description that outlines how the recruitment agency works and identified the challenges they face in data storage. I then revealed the advantages of creating a database to help manage the agency's data more efficiently and effectively.
+## Description :key:
+The project involved creating an ERD for a recruitment agency using Lucidchart and PowerPoint. The ERD included an Infological model with entities, relationships, specified columns, primary keys, foreign keys, and data types. The aim of the project was to solve the challenges faced by the recruitment agency in data storage and management.
 
-Next, I approached the DB modeling step-by-step, identifying and describing all of the DB objects. This includes the creation of tables for entities such as job seekers, job postings, resumes, interviews, and placements, among others. Each table includes the necessary columns, primary keys, and foreign keys, which establish the relationships between the entities.
 
-By creating this database, the recruitment agency will be able to manage their data more efficiently, enabling them to easily track job postings, resumes, job seekers, and interviews. The ERD provides a visual representation of the database's structure, making it easy for stakeholders to understand and maintain.
+## Tasks :ballot_box_with_check:
+- Write a business description of the recruitment agency and identify the challenges they face in data storage;
+- Create an Infological model for the ERD using Lucidchart;
+- Design tables for entities such as job seekers, job postings, resumes, interviews, and placements, among others;
+- Establish relationships between entities using primary and foreign keys;
+- Create a visual representation of the ERD using PowerPoint;
 
-Overall, this project demonstrates the value of ERD and database design in solving complex business problems and improving data management.
+
+## Used Tools :mortar_board:
+Lucidchart, PowerPoint.
+
+
+## Tags :label:
+ERD design, Database modeling, Lucidchart, PowerPoint, Recruitment agency, Data management, Infological model.
+
+## Project Status :black_square_button:
+_Completed_ 
+
+### This folder contains also an additional ERD created for a food delivery service.
