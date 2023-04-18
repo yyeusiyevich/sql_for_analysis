@@ -1,4 +1,4 @@
-# Data Query Language (SELECT statement)
+# Data Manimulation Language (INSERT, UPDATE, DELETE statements)
 ![YM-logo](delete.jpg)
 
 ## Description :key:
