@@ -1,4 +1,4 @@
-# Data Manimulation Language (INSERT, UPDATE, DELETE statements)
+# Data Manipulation Language (INSERT, UPDATE, DELETE statements)
 ![YM-logo](delete.jpg)
 
 ## Description :key:
